@@ -10,9 +10,6 @@ Email: developermamunurrashid@gmail.com
 .menu_area .navbar-brand {
 		font-size: 35px;
 	}
-	.menu_area .navbar-brand-subtitle {
-		font-size: 25px;
-	}
     .header_area .menu_area #nav .nav-link {
         -webkit-transition-duration: 500ms;
         -o-transition-duration: 500ms;
@@ -51,10 +48,7 @@ Email: developermamunurrashid@gmail.com
 		text-align: center;
 		padding-top: 15px;
 	}
-	.menu_area . {
-		font-size: 48px;
-	}
-	.menu_area .-subtitle {
+	.menu_area .navbar-brand {
 		font-size: 48px;
 	}
 
@@ -109,9 +103,6 @@ Email: developermamunurrashid@gmail.com
 	}
 	.menu_area .navbar-brand {
 		font-size: 48px;
-	}
-	.menu_area .navbar-brand-subtitle {
-		font-size: 38px;
 	}
 
 	.header_area .menu_area #nav .nav-link,
@@ -274,10 +265,6 @@ Email: developermamunurrashid@gmail.com
 	.menu_area .navbar-brand {
 		font-size: 48px;
 	}
-	.menu_area .navbar-brand-subtitle {
-		font-size: 38px;
-	}
-	
 
 	.header_area .menu_area #nav .nav-link,
 	.header_area.sticky .menu_area #nav .nav-link {
@@ -310,9 +297,9 @@ Email: developermamunurrashid@gmail.com
 		text-align: center;
 		margin-top: 15px;
 	}
-		/* {
+		{
 		text-align: center;
-	} */
+	}
 
 	.header_area {
 		padding: 0;
@@ -322,10 +309,6 @@ Email: developermamunurrashid@gmail.com
 	}
 	.menu_area .navbar-brand {
 		font-size: 35px;
-		margin-left: 10px;
-	}
-	.menu_area .navbar-brand-subtitle {
-		font-size: 25px;
 		margin-left: 10px;
 	}
 
@@ -417,7 +400,7 @@ Email: developermamunurrashid@gmail.com
 		font-size: 284px;
 	}
 	.wellcome-heading > h2 {
-		font-size: 35px;
+		font-size: 70px;
 	}
 	.welcome-thumb {
 		bottom: -109px;
@@ -436,11 +419,7 @@ Email: developermamunurrashid@gmail.com
 		font-size: 14px;
 	}
 	.header_area .menu_area .navbar-brand {
-		margin-left: 8px;
-	}
-	.header_area .menu_area .navbar-brand-subtitle {
-		margin-left: 8px;
-		
+		margin-left: 10px;
 	}
 }
 
@@ -602,7 +581,7 @@ Email: developermamunurrashid@gmail.com
 		margin-top: 150px;
 	}
 	.header_area.sticky .menu_area .navbar-brand {
-		font-size: 12px;
+		font-size: 35px;
 	}
 	.wellcome-heading,
 	.single-cool-fact {
@@ -689,8 +668,7 @@ Email: developermamunurrashid@gmail.com
         color: #fb397d;
     }
 	.header_area .menu_area #nav .nav-item.active .nav-link {
-		color: #fb397d;
-		
+        color: #fb397d;
     }
 	#pricing .price:hover{
 		transform: scale(1);
